@@ -1,0 +1,47 @@
+
+body{
+    margin: 0;
+    font-family: 'Righteous', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40% ;
+    float: left ;
+    margin-left: 5%;
+    padding-left: 2%;
+      
+}
+.half-width img{
+    width: 100% ;
+}
+.top-banner{
+    background-image: url("top-banner.png") ;
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-color: yellowgreen;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    background-image: linear-gradient( 70deg , yellowgreen , green);
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.dream{
+    color: red ; 
+}
+.second-banner{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
